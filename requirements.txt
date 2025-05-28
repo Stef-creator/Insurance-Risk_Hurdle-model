@@ -1,0 +1,9 @@
+notebook
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+openpyxl
+fitter
+ipykernel
